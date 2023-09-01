@@ -9,4 +9,4 @@ I made it using:
   - Boxicons - https://boxicons.com/
   - Scroll reveal - https://scrollrevealjs.org/
 
-You can see the site [here](https://www.safetpojskic.com)
+You can see the site [here](https://vanisaxena.netlify.app/)
