@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 :root {
-  scrollbar-color: rgb(207, 27, 27) rgb(20, 25, 27) !important;
+  /* scrollbar-color: rgb(207, 27, 27) rgb(20, 25, 27) !important; */
+  scrollbar-color: #ee9820 rgb(20, 25, 27) !important;
   scrollbar-width: thin !important;
 }
 
@@ -12,7 +13,8 @@
 
 /*Colors*/
 :root {
-  --first-color: #cf1b1b;
+  /* --first-color: #cf1b1b; */
+  --first-color: #ff9500;
   --second-color: #14191b;
 }
 
@@ -384,7 +386,7 @@ header {
   position: absolute;
   right: 0;
   bottom: 12%;
-  width: 255px;
+  width: 300px;
 }
 
 /*Buttons*/

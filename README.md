@@ -1,15 +1,44 @@
-<h2>MY Portfolio</h1>
+# Full Stack Web Developer Portfolio
 
-![Screenshot 2023-09-01 190606](https://github.com/vanisaxena/My_Portfolio/assets/71544568/fd617a15-b24f-4fbb-9b02-ccd9062d8a79)
+Welcome to my portfolio website! This site showcases my projects, skills, and experience as a full stack web developer.
 
+## Table of Contents
 
-This is my portfolio page source code. Feel free to PM me.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Projects](#projects)
+- [Contact](#contact)
 
-I made it using:
-  - HTML
-  - CSS
-  - JAVASCRIPT
-  - Boxicons - https://boxicons.com/
-  - Scroll reveal - https://scrollrevealjs.org/
+## Introduction
 
-You can see the site [here](https://vanisaxena.netlify.app/)
+This portfolio website is designed to highlight my skills and projects as a full stack web developer. It includes information about me, my work experience, and a collection of projects that demonstrate my expertise in various web development technologies.
+
+## Features
+
+- Home page with an introduction and brief bio
+- About page with detailed information about my background and skills
+- Projects page showcasing my completed projects with descriptions and links
+- Contact page with a form to get in touch with me
+- Responsive design for optimal viewing on different devices
+- Smooth animations and transitions using Scroll Reveal
+- Iconography with Boxicons
+
+## Technologies Used
+
+- **Frontend:**
+  - HTML5
+  - CSS3
+  - JavaScript
+  - [Boxicons](https://boxicons.com/)
+  - [Scroll Reveal](https://scrollrevealjs.org/)
+
+## Installation
+
+To run this portfolio website locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/portfolio-website.git
