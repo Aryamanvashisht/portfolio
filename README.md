@@ -42,3 +42,6 @@ To run this portfolio website locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Aryamanvashisht/portfolio.git
+
+## Live Link
+   https://aryaprojects.netlify.app/
